@@ -1,1 +1,0 @@
-export const fbAPIKey = "AIzaSyBZpMCl7q2xTj6G-os5zditNYs_-JgAdlM"
